@@ -1,5 +1,5 @@
-# Helloworld
-## 运行截图
+# EX1
+## HelloWorld运行截图
 ![运行结果](https://github.com/PresidentChao/EX1/blob/master/helloworld.png)
 ## Logcat截图
 ### 1.开始状态
